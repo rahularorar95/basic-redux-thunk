@@ -1,5 +1,7 @@
-import { combineReducers } from 'redux'
+import { combineReducers } from "redux"
 
 export default combineReducers({
-    test:()=>{return 10}
+    test: () => {
+        return 10
+    }
 })
