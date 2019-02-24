@@ -4,7 +4,7 @@ import PostList from "./PostList"
 class App extends Component {
     render() {
         return (
-            <div className='ui-container'>
+            <div className='ui container'>
                 <PostList />
             </div>
         )
